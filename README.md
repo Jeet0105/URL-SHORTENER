@@ -24,8 +24,8 @@ A fast, production-ready URL shortener REST API built with Node.js, Express 5, a
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd 02URLSHORTEN
+git clone https://github.com/Jeet0105/URL-SHORTENER.git
+cd <folder_path>
 
 # Install dependencies
 npm install
