@@ -13,7 +13,7 @@
   "dependencies": {
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "mongoose": "^9.8.0",
+    "mongoose": "^9.11.4",
     "nanoid": "^6.0.0"
   }
 }
